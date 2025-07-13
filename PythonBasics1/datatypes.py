@@ -1,0 +1,5 @@
+print(type(6))
+print(type(6.0))
+print(type("6"))
+print(type(True))
+print(type(None))
